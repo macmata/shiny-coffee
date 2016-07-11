@@ -1,0 +1,9 @@
+[submodule "lib/Arduino-PID-Library"]
+	path = lib/Arduino-PID-Library
+	url = git@github.com:macmata/Arduino-PID-Library.git
+[submodule "lib/Adafruit_MQTT_Library"]
+	path = lib/Adafruit_MQTT_Library
+	url = git@github.com:macmata/Adafruit_MQTT_Library.git
+[submodule "lib/MAX6675-library"]
+	path = lib/MAX6675-library
+	url = git@github.com:macmata/MAX6675-library.git
