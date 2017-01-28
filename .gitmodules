@@ -7,3 +7,9 @@
 [submodule "lib/MAX6675-library"]
 	path = lib/MAX6675-library
 	url = git@github.com:macmata/MAX6675-library.git
+[submodule "lib/WiFiManager"]
+	path = lib/WiFiManager
+	url = git@github.com:macmata/WiFiManager.git
+[submodule "lib/pubsubclient"]
+	path = lib/pubsubclient
+	url = git@github.com:knolleary/pubsubclient.git
